@@ -3174,3 +3174,31 @@
 			}
 
 		}
+.read-button{
+	padding:15px;
+	border-style: solid;
+	border-width: thick;
+	width: 25%;
+	text-align: center;
+	font-size: 25px;
+	border-color:#1ECD97 orange;
+ 	color: orange;
+	margin:auto;
+	cursor: pointer;
+	transition: all ease-in-out 0.3s;
+}
+.read-button:hover{
+	background-color: #ffffff;
+	border-color:orange #1ECD97;
+	border-radius: 45px;
+	color: #1ECD97;
+}
+.read-button:focus{
+	background-color: black;
+	color: black;
+	border-color:black;
+	border-radius: 45px;
+}
+a:link{
+	text-decoration: none;
+}
