@@ -3178,7 +3178,8 @@
 	padding:15px;
 	border-style: solid;
 	border-width: thick;
-	width: 250px;
+	width:auto;
+	max-width: 250px;
 	text-align: center;
 	font-size: 25px;
 	border-color:#1ECD97 orange;
